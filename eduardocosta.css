@@ -17,8 +17,8 @@ body{
 .pergunta{
   background-color: #0791B5;
   border: 13px solid white;
-  width: 650px;
-  height: 400px;
+  width: 660px;
+  height: 410px;
   border-radius: 50px;
 }
 #reset{
@@ -37,7 +37,7 @@ button{
   border-radius: 20px;
   padding: 10px 20px;
   font-size: 55px;
-  margin-top: 75px;
+  margin-top: 83px;
   cursor: pointer;
 }
 .sim{
